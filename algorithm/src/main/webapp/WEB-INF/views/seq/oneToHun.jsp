@@ -10,8 +10,8 @@
 <script>
 
 	for(var i=0; i<=100; i++){
-		s = s+1;
-		document.write(i+"번째 입니다"+"+s <br>");
+		var sum = sum+1;
+		document.write(i+"번째 입니다"+"+sum <br>");
 		
 	}
 		
